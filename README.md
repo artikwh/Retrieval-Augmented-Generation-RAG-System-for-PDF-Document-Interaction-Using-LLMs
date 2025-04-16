@@ -51,19 +51,20 @@ streamlit run app.py
 ```
 
 🧪 Tech Stack
-`-Streamlit
 
-Google Generative AI (Gemini 1.5 Flash)
+- Streamlit
 
-FAISS (Facebook AI Similarity Search)
+- Google Generative AI (Gemini 1.5 Flash)
 
-SentenceTransformers
+- FAISS (Facebook AI Similarity Search)
 
-PyPDF2
+- SentenceTransformers
+
+- PyPDF2
 
 🙋‍♀️ Author
 Arti Kushwaha
-LinkedIn | Email
+LinkedIn(https://www.linkedin.com/in/arti-kushwaha-32a68634/) | Email(artikwh@gmail.com)
 
 ⭐ Feedback or Contributions?
 Feel free to open an issue or a pull request. Feedback and improvements are welcome!
