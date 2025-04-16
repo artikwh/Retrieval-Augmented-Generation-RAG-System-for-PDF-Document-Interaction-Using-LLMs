@@ -32,23 +32,24 @@ This Streamlit-based application allows you to **upload multiple PDFs**, **ask q
 ### Clone the repo
 
 ```bash
-git clone https://github.com/your-username/rag-pdf-chat-gemini.git
-cd rag-pdf-chat-gemini
-Install dependencies
-bash
-Copy
-Edit
+git clone https://github.com/artikwh/Retrieval-Augmented-Generation-RAG-System-for-PDF-Document-Interaction-Using-LLMs
+```
+
+### Install dependencies
+```bash
 pip install -r requirements.txt
-🔐 Add Gemini API Key
-toml
-Copy
-Edit
+```
+
+###🔐 Add Gemini API Key
+```bash
 gemini_api_key = "your_google_generative_ai_api_key"
-▶️ Run the App
-bash
-Copy
-Edit
+```
+
+###▶️ Run the App
+```bash
 streamlit run app.py
+```
+
 🧪 Tech Stack
 Streamlit
 
