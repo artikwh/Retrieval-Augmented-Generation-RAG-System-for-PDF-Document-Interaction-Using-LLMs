@@ -40,18 +40,18 @@ git clone https://github.com/artikwh/Retrieval-Augmented-Generation-RAG-System-f
 pip install -r requirements.txt
 ```
 
-###🔐 Add Gemini API Key
+🔐 Add Gemini API Key
 ```bash
 gemini_api_key = "your_google_generative_ai_api_key"
 ```
 
-###▶️ Run the App
+▶️ Run the App
 ```bash
 streamlit run app.py
 ```
 
 🧪 Tech Stack
-Streamlit
+`-Streamlit
 
 Google Generative AI (Gemini 1.5 Flash)
 
